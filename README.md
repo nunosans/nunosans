@@ -1,12 +1,10 @@
-### Hi, I'm Nuno (he/him)
+### Hi, I'm Nuno
 
-
-I'm currently working on health products at [@Google](http://github.com/google) as a Senior UX Designer.
-
-I'm also an indie iOS (Swift) and web (JS, Ruby) developer.
+### A product designer based in London, UK
 
 - Product design tips → [Instagram](http://instagram.com/nunosans)
 - Work updates → [Twitter](http://twitter.com/nunosans)
 - More of my work → [nunocoelhosantos.com](http://nunocoelhosantos.com)
+- Pronouns: he/him
 
 ｡ ◕ ‿ ◕ ｡
