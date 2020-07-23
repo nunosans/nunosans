@@ -1,6 +1,7 @@
 
-# Hi, I'm Nuno (he/him)
-# ｡ ◕ ‿ ◕ ｡
+### Hi, I'm Nuno (he/him)
+
+### ｡ ◕ ‿ ◕ ｡
 
 - I'm currently working on health products at @Google as a Senior UX Designer
 - I'm an indie iOS (Swift) and web (JS, Ruby) developer
