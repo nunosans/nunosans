@@ -9,4 +9,4 @@ I'm also an indie iOS (Swift) and web (JS, Ruby) developer.
 - Work updates → [Twitter](http://twitter.com/nunosans)
 - More of my work → [nunocoelhosantos.com](http://nunocoelhosantos.com)
 
-### ｡ ◕ ‿ ◕ ｡
+｡ ◕ ‿ ◕ ｡
