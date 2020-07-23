@@ -4,7 +4,7 @@ A product designer based in London, UK. Currently Senior UX Designer at Google. 
 
 - Product design tips + interviews → [Instagram](http://instagram.com/nunosans)
 - Work updates → [Twitter](http://twitter.com/nunosans)
-- Blog, updated once a year → [nunosans.com](http://nunosans.com)
+- Blog (updated once a year) → [nunosans.com](http://nunosans.com)
 - More of my work → [nunocoelhosantos.com](http://nunocoelhosantos.com)
 - Pronouns: he/him
 
