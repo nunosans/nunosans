@@ -1,10 +1,10 @@
-### Hi, I'm Nuno
+# Hi, I'm Nuno
 
-A product designer based in London, UK. Currently at WhatsApp. Indie iOS and web developer.
+## I'm a product designer-engineer based in Berlin. Currently at WhatsApp.
 
-- Product design tips + interviews → [Instagram](http://instagram.com/nunosans)
-- Work updates → [Twitter](http://twitter.com/nunosans)
-- More of my work → [nunocoelhosantos.com](http://nunocoelhosantos.com)
-- Pronouns: he/him
+- Portfolio → [nunocoelhosantos.com](http://nunocoelhosantos.com)
+- Blog → [nunosans.com](http://nunosans.com)
 
-### ｡ ◕ ‿ ◕ ｡
+- Threads → [nunosans](http://threads.net/nunosans)
+- Instagram → [nunosans](http://instagram.com/nunosans)
+- Linkedin → [nunosans](http://linkedin.com/in/nunosans)
