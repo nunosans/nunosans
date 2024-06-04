@@ -1,4 +1,4 @@
-### Hi, I'm Nuno. I'm a product designer-engineer based in Berlin. Currently at WhatsApp.
+## Hi, I'm Nuno. I'm a product designer-engineer based in Berlin. Currently at WhatsApp.
 
 ### Work
 - Portfolio → [nunocoelhosantos.com](http://nunocoelhosantos.com)
