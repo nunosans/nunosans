@@ -1,10 +1,7 @@
-## Hi, I'm Nuno. I'm a product designer-engineer based in Berlin. Currently at WhatsApp.
+## Hi, I'm Nuno. I'm a product designer & software developer based in Berlin.
 
-### Work
-- Portfolio → [nunocoelhosantos.com](http://nunocoelhosantos.com)
-- Blog → [nunosans.com](http://nunosans.com)
-
-### Elsewhere
-- Threads → [nunosans](http://threads.net/nunosans)
-- Instagram → [nunosans](http://instagram.com/nunosans)
-- Linkedin → [nunosans](http://linkedin.com/in/nunosans)
+→ [Portfolio](http://nunocoelhosantos.com)
+→ [Blog](http://nunosans.com)
+→ [Threads](http://threads.net/nunosans)
+→ [Instagram](http://instagram.com/nunosans)
+→ [Linkedin](http://linkedin.com/in/nunosans)
