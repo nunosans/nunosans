@@ -1,4 +1,4 @@
-### Hi, I'm Nuno. I'm a product designer & software developer based in Berlin.
+### Hi, I'm Nuno. I'm a product designer based in Porto, Portugal.
 
 - [Portfolio](http://nunocoelhosantos.com)
 - [Blog](http://nunosans.com)
